@@ -1,0 +1,65 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ambatile International School of IT</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffffff;
+      color: #333333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      text-align: center;
+      padding: 1rem;
+      background-color: #001f3f;
+      color: white;
+    }
+    .section {
+      padding: 1rem;
+      border-bottom: 1px solid #ddd;
+    }
+    .section h2 {
+      color: #001f3f;
+    }
+    .btn {
+      display: inline-block;
+      padding: 0.5rem 1rem;
+      background-color: #001f3f;
+      color: white;
+      border: none;
+      text-decoration: none;
+      margin-top: 0.5rem;
+      border-radius: 4px;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #888;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ambatile International School of Information Technology</h1>
+    <p>Excellence in Digital Education</p>
+  </header>  <div class="section">
+    <h2>Admissions</h2>
+    <p>Apply online and join a tech-driven future. Our process is simple and digital.</p>
+    <a href="#" class="btn">Apply Now</a>
+  </div>  <div class="section">
+    <h2>Academics</h2>
+    <p>Explore our curriculum, tailored to empower students with modern IT skills.</p>
+    <a href="#" class="btn">View Programs</a>
+  </div>  <div class="section">
+    <h2>Student Portal</h2>
+    <p>Access your timetable, exam slips, and more. Log in to your portal.</p>
+    <a href="#" class="btn">Go to Portal</a>
+  </div>  <footer>
+    &copy; 2025 Ambatile International School of IT
+  </footer>
+</body>
+</html>
